@@ -12,3 +12,4 @@ lxml
 openpyxl
 pandas
 pillow
+magika

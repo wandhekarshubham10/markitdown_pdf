@@ -1,6 +1,5 @@
 # 1. Update to match your working local runtime (Python 3.14)
-FROM python:3.14-slim-bullseye
-
+FROM python:3.14-slim
 ENV DEBIAN_FRONTEND=noninteractive
 ENV EXIFTOOL_PATH=/usr/bin/exiftool
 ENV FFMPEG_PATH=/usr/bin/ffmpeg

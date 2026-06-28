@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+pdfplumber
+pdfminer-six
+beautifulsoup4
+charset-normalizer
+defusedxml
+markdownify
+requests
+lxml
+openpyxl
+pandas
+pillow
